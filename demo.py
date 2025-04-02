@@ -1,0 +1,1 @@
+print("HELLO WORLD! This is the basic code.")
